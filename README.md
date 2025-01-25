@@ -1,7 +1,7 @@
-I Made this code to play Roblox piano on Mac
+I wrote this code to play a MIDI piano in Roblox on a Mac.
 
-install java ide (intellij, eclipse ..)
-install java 1.8 jdk
-copy and paste this code
-connect midi piano
-run this code
+1. install java ide (intellij, eclipse ..)<br>
+2. install java 1.8 jdk<br>
+3. copy and paste this code<br>
+4. connect midi piano<br>
+5. run this code
